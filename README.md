@@ -21,10 +21,15 @@
  <!-- - 📔 Live [**MyResume**](https://github.com/rajeevrajak/ResumeMe/blob/main/RAJEEV-RESUME-2023-1.pdf) 
  - 👨‍💻 Check My! [**CodingProfile**](https://mycodingprofiles.netlify.app/) -->
 - 🔭 I have completed **Bachelor's of Technology in Computer Science Engineering** on 2024
+<br>
 - 📘 I’m Currently working on **Web Developers**
+<br>
 - 👯 I’m looking to collaborate on **Open Source Projects**
+<br>
 - ⚡ For Fun I play games and interested in  field of software **
+<br>
 - 📫 How to reach me **mantusingh4429@gmail.com**
+<br>
 - 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/mantu-kumar-singh-8874a4387/)
 
 
