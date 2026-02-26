@@ -99,9 +99,9 @@
 
 -  MyCodingProfiles [**🔗**]()  
 -  Portfolio [**🔗**]()
--  Parallax-indian-festival <a href="parallax-indian-festivals.vercel.app">🔗 Link.</a>
--  Gallery Website <a href="gallery-website-seven.vercel.app">🔗 Link.</a>
--  Tic tac Toe Website <a href="tic-tac-toe-mkr.vercel.app">🔗 Link.</a>
+-  Parallax-indian-festival <a href="https://parallax-indian-festivals.vercel.app/">🔗 Link.</a>
+-  Gallery Website <a href="https://gallery-website-seven.vercel.app/">🔗 Link.</a>
+-  Tic tac Toe Website <a href="https://tic-tac-toe-mkr.vercel.app/">🔗 Link.</a>
 -  Login Page Website <a href="https://form-ebon-theta.vercel.app/">🔗 Link.</a>
  
 <!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevrajak&" alt="rajeevrajak"/></p>-->
