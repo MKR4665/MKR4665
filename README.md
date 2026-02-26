@@ -30,7 +30,7 @@
 <br>
 - 📫 How to reach me **mantusingh4429@gmail.com**
 <br>
-- 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/mantu-kumar-singh-8874a4387/)
+- 🔗 Connect Me on <a href="https://www.linkedin.com/in/mantu-kumar-singh-8874a4387/">🔗 Linkedin.</a>
 
 
 ## ❤️ DSA ZONE
