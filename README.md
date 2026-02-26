@@ -19,12 +19,12 @@
 <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
  <!-- - 📔 Live [**MyResume**](https://github.com/rajeevrajak/ResumeMe/blob/main/RAJEEV-RESUME-2023-1.pdf) 
  - 👨‍💻 Check My! [**CodingProfile**](https://mycodingprofiles.netlify.app/) -->
-- 🔭 I’m Currently Studing in **Final Year**
-- 📘 I’m Currently learning **Full 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩ement**
+- 🔭 I have completed **Bachelor's of Technology in Computer Science Engineering** on 2024
+- 📘 I’m Currently working on **Web Developers**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - ⚡ For Fun I play games and interested in  field of software **
-- 📫 How to reach me **mantusingh5138@gmail.com**
-- 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/mantu-singh-69969b20b)
+- 📫 How to reach me **mantusingh4429@gmail.com**
+- 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/mantu-kumar-singh-8874a4387/)
 
 
 ## ❤️ DSA ZONE
@@ -92,9 +92,11 @@
 ## 📝 PROJECT's ZONE
 
 -  MyCodingProfiles [**🔗**]()  
--  Portfolio [**🔗**]() 
--  Stop Watch Website [**🔗**]()
-
+-  Portfolio [**🔗**]()
+-  Parallax-indian-festival <a href="parallax-indian-festivals.vercel.app">🔗 Link.</a>
+-  Gallery Website <a href="gallery-website-seven.vercel.app">🔗 Link.</a>
+-  Tic tac Toe Website <a href="tic-tac-toe-mkr.vercel.app">🔗 Link.</a>
+-  Login Page Website <a href="https://form-ebon-theta.vercel.app/">🔗 Link.</a>
  
 <!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevrajak&" alt="rajeevrajak"/></p>-->
 
@@ -128,15 +130,15 @@
 ## 📧 Connect With Me:
 
 <p align="left">  
- <a href="https://www.linkedin.com/in/mantu-singh-69969b20b"    target="_blank">  <img src="https://img.icons8.com/color/60/null/linkedin.png"/></a>
+ <a href="https://www.linkedin.com/in/mantu-kumar-singh-8874a4387/"    target="_blank">  <img src="https://img.icons8.com/color/60/null/linkedin.png"/></a>
     
  <!-- <a href="https://stackexchange.com/users/28167349/rajeev-rajak"> 
   <img src="https://img.icons8.com/color/60/null/stackoverflow.png"/> </a>  -->
     
-  <a href="https://github.com/MantuKumar15" target="_blank">  
+  <a href="https://github.com/MKR4665" target="_blank">  
   <img src="https://img.icons8.com/color/60/null/github--v1.png"/></a>
     
-  <a href="https://instagram.com/mantusingh5138?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D" target="_blank">
+  <a href="https://instagram.com/adityaraj_sanatani?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D" target="_blank">
   <img src="https://img.icons8.com/color/60/null/instagram-new--v1.png"/></a>
     
   <a href="https://www.facebook.com/profile.php?id=100037453986869&mibextid=ZbWKwL" target="_blank"> 
